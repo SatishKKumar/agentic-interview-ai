@@ -1,0 +1,10 @@
+transformers
+torch
+sentence-transformers
+chromadb
+duckduckgo-search
+fastapi
+uvicorn
+requests
+jinja2
+openai-whisper
